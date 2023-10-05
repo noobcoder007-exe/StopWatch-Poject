@@ -49,7 +49,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 If you have any questions or suggestions, feel free to contact me:
 
-- Email: your.email@example.com
+- Email: prathamrajsri2003@gmail.com
 
 ## About
 Enjoy using the stopwatch!

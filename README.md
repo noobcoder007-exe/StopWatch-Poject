@@ -21,7 +21,7 @@ To run this stopwatch project locally, follow these steps:
    git clone https://github.com/yourusername/stopwatch-project.git
    ```
 
-2. Open the `index.html` file in your web browser.
+2. Open the `index.html` file in your web browser. OR Right click the mouse and open with Live Server.
 
 3. Use the Start, Stop, and Reset buttons to control the stopwatch.
 
